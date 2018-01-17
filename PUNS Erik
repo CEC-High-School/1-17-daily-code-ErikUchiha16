@@ -1,0 +1,9 @@
+#include<iostream> 
+using namespace std;
+
+int main() {
+
+	cout << "What do you call a anime girl that's tired" << endl;
+	system("pause");
+	cout << "A Yawn-Dere" << endl;
+}
